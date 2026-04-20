@@ -3,8 +3,14 @@
 </h1>
 
 <p align="center">
+  <a href="https://jayantarora.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/jayant-arora370/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jayantdhingra370@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -69,9 +75,23 @@ I aim to build projects that reflect real industry use cases and align with role
 
 ## 🧠 Coding Profiles
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jayantarora370?theme=dark&font=Baloo&ext=heatmap" />
-</p>
+## 🏆 LeetCode
+
+## 🏆 LeetCode
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://leetcard.jacoblin.cool/jayantarora370?theme=dark&font=Baloo&ext=heatmap" />
+    </td>
+    <td width="50%" align="center">
+      <div style="overflow:hidden; height:240px;">
+        <img src="https://leetcard.jacoblin.cool/jayantarora370?theme=dark&font=Baloo&ext=contest"
+             style="margin-top:-140px; width:100%; display:block;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://leetcode.com/u/jayantarora370/">
