@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jayant Arora</h1>
-
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+I+am+Jayant+Arora;Passionate+Data+Scientist;ML+%7C+DL+%7C+NLP+%7C+Cloud&center=true&width=600&height=50&typeSpeed=50&backSpeed=30&pause=1000">
-</p>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayant-arora370/">
@@ -14,56 +12,57 @@
 
 ## 🧠 About Me
 
-I’m a Data Science student focused on building practical, real-world solutions using machine learning and data analysis. My work revolves around understanding data, extracting meaningful insights, and applying models to solve problems that actually matter.
+I’m a Data Science student focused on building end-to-end, real-world solutions—from data preprocessing and analysis to model development, evaluation, and deployment.
 
-I have hands-on experience with NLP using Hugging Face, along with deep learning and traditional machine learning techniques. Alongside modeling, I work on data analysis using SQL, Excel, and Power BI to turn raw data into clear business insights.
+My work spans across multiple domains including Machine Learning, Deep Learning, and Natural Language Processing (NLP) using Hugging Face, along with strong capabilities in Data Analytics using SQL, Excel, and Power BI to extract meaningful insights from data.
 
-I also maintain a strong foundation in core computer science concepts like DSA, OOP, Operating Systems, and Computer Networks, and I’m comfortable working with tools like AWS, Docker, and CI/CD pipelines.
+Beyond data science, I also work with DevOps and cloud technologies such as Docker, AWS, Kubernetes, and CI/CD pipelines. I have a solid foundation in core computer science concepts like DSA, OOP, Operating Systems, and Computer Networks.
+
+I aim to build projects that reflect real industry use cases and align with roles such as Data Scientist, Machine Learning Engineer, NLP Engineer, and Software Developer.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Next Word Prediction (LSTM)
-- Built using **PyTorch**
-- Dataset: 10,000+ sentences
-- NLP sequence modeling  
-🔗 https://github.com/Jayant962/Next-Word-Predictor
+- PyTorch, NLP modeling  
+- Dataset: 10,000+ sentences  
+🔗 https://github.com/Jayant962/Next-Word-Predictor  
 
 ---
 
 ### 🎬 Movie Recommendation System
 - Content-based filtering  
 - Personalized recommendations  
-🔗 https://github.com/Jayant962/Movie-Recommender-System
-📸 Add UI/demo image  
+🔗 https://github.com/Jayant962/Movie-Recommender-System  
 
 ---
 
 ### 📊 Retail Sales Analysis
 - SQL + Excel + Power BI  
-- Business KPIs & insights  
-🔗 https://github.com/Jayant962/Retail-Customer-Insights
+- Business insights and KPI tracking  
+🔗 https://github.com/Jayant962/Retail-Customer-Insights  
 
 ---
 
-### 📊 Vrinda Store Dashboard
-- Data cleaning + visualization  
-- Sales trend analysis  
-🔗https://github.com/Jayant962/Vrindas-Store-Data-Analysis-and-Visualization
+### 🚗 Smart Parking System
+- OOP + Database + APIs  
+- Real-time slot allocation system  
+🔗 https://github.com/Jayant962/Smart-Parking_System  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,docker,aws,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,git,docker,aws,kubernetes,jenkins,pytorch" height="60"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/NLP-HuggingFace-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
@@ -71,22 +70,37 @@ I also maintain a strong foundation in core computer science concepts like DSA, 
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <a href="YOUR_LEETCODE_LINK"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-  <a href="YOUR_GFG_LINK"><img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"/></a>
-  <a href="YOUR_HACKERRANK_LINK"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/></a>
+  <img src="https://leetcard.jacoblin.cool/jayantarora370?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jayantarora370/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/jayantdhilj48">
+    <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/jayantdhingra370">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+  </a>
 </p>
 
 ---
 
 ## 🎯 Focus
-- Machine Learning  
-- Deep Learning  
-- NLP (Hugging Face)  
-- Data Analysis  
-- MLOps  
+
+- 🤖 Machine Learning  
+- 🧠 Deep Learning  
+- 💬 NLP (Hugging Face)  
+- 📊 Data Analysis  
+- ⚙️ MLOps  
+- 🧩 Problem Solving  
+- 🔧 DevOps  
+- ☁️ Cloud Computing  
+- 💻 Software Development  
 
 ---
 
 <p align="center">
-  ⚡ Real work speaks louder than claims.
+  ⚡ Real work > decoration
 </p>
